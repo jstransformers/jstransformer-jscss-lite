@@ -3,7 +3,14 @@
   "version": "0.0.0",
   "description": "JSCSS-Lite support for JSTransformers.",
   "keywords": [
-    "jstransformer"
+    "css",
+    "embedded",
+    "js",
+    "jscss",
+    "jscsslite",
+    "jstransformer",
+    "lite",
+    "transformer"
   ],
   "files": [
     "index.js"
