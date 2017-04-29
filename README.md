@@ -1,5 +1,7 @@
 # jstransformer-jscss-lite
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-jscss-lite.svg)](https://greenkeeper.io/)
+
 [JSCSS-Lite](https://github.com/tunnckoCore/jscss-lite) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-jscss-lite/master.svg)](https://travis-ci.org/jstransformers/jstransformer-jscss-lite)
