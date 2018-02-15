@@ -18,7 +18,7 @@ npm install jstransformer-jscss-lite
 > See full example in [test fixture](./test/input.css) or visit [jscss-lite readme](https://github.com/tunnckocore/jscss-lite)
 
 ```js
-var jscssLite = require('jstransformer')(require('jstransformer-jscss-lite'));
+var jscssLite = require('jstransformer')(require('jstransformer-jscss-lite'))
 
 jscssLite.render('var color = "#d02783"; div { background: |color|; }').body
 //=> 'div { background: #d02783; }'
