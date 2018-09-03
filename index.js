@@ -15,8 +15,8 @@ exports.renderAsync = function (str) {
     let output = ''
     try {
       output = jscssLite(str)
-    } catch (err) {
-      return reject(err)
+    } catch (error) {
+      return reject(error)
     }
     resolve(output)
   })
