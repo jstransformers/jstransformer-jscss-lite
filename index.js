@@ -18,6 +18,7 @@ exports.renderAsync = function (str) {
     } catch (error) {
       return reject(error)
     }
+
     resolve(output)
   })
 }
