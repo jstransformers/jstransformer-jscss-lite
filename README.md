@@ -5,7 +5,6 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-jscss-lite/master.svg)](https://travis-ci.org/jstransformers/jstransformer-jscss-lite)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-jscss-lite/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-jscss-lite)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-jscss-lite/master.svg)](http://david-dm.org/jstransformers/jstransformer-jscss-lite)
-
 [![NPM version](https://img.shields.io/npm/v/jstransformer-jscss-lite.svg)](https://www.npmjs.org/package/jstransformer-jscss-lite)
 
 ## Installation
